@@ -1,0 +1,4 @@
+# Prefer an existing working PyTorch environment.
+# Tested on Linux / Python 3.13.5 / torch 2.10.0+cpu.
+# Other platforms / versions must pass `python selftest.py`.
+torch>=2.2.2
