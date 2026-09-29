@@ -32,7 +32,7 @@
 
 HTTP 集成测试通过真实本地服务提交 LoRA、Causal LM Loss、GAE、PPO Actor 完整评测，并运行 GRPO 的前两组示例；原 ReLU 与推荐损失、指标、模型提交继续通过。启动器已有服务复用、验证缓存、环境选择、跨来源拒绝等回归继续通过。
 
-复现日志：[整库自检](output/llm-rl/selftest.log)、[单元与服务测试](output/llm-rl/unittest.log)。结构化自检数据见 [test_report.json](llm_code_lab/test_report.json)。
+运行日志属于本机生成物，不随源码仓库分发；可按上表命令重新生成验证结果。
 
 ## 关键边界
 
@@ -59,7 +59,7 @@ HTTP 集成测试通过真实本地服务提交 LoRA、Causal LM Loss、GAE、PP
 - 窄屏学习路径能换行、纵向滚动，无弹窗内容横向溢出；临时窗口尺寸已恢复。
 - 本轮预览页未捕获到 JavaScript error 日志。
 
-截图：[展开方向菜单](output/llm-rl/track-menu.jpg)、[学习路径](output/llm-rl/learning-paths.jpg)、[LoRA 通过](output/llm-rl/lora-passed.jpg)、[PPO 通过](output/llm-rl/ppo-passed.jpg)、[窄屏路径](output/llm-rl/paths-mobile.jpg)。
+浏览器截图属于本机验收产物，不随源码仓库分发。
 
 ## 加载更新
 

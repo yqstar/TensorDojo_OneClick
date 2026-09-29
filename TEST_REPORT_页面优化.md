@@ -44,9 +44,7 @@
 
 ## 预览
 
-![桌面练习与评测](output/apple-design/desktop.jpg)
-
-[浅色展开菜单](output/apple-design/light-menu.jpg) · [深色展开菜单](output/apple-design/dark-menu.jpg) · [窄屏展开菜单](output/apple-design/mobile-menu.jpg) · [320px 布局](output/apple-design/mobile-320.jpg)
+页面截图属于本机验收产物，不随源码仓库分发。
 
 ## 验证边界与使用
 

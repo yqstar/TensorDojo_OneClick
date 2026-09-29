@@ -4,8 +4,6 @@ TensorDojo 是一个本地运行的 PyTorch 手写题训练场，面向大模型
 
 每道题包含中文题面、公式、输入输出约定、提示、易错点、参考实现和本地测试。提交的代码由本机 Python / PyTorch 执行，并检查返回契约、数值、输入不变性，以及适用题目的自动求导结果。
 
-![TensorDojo 强化学习题目](output/llm-rl/ppo-passed.jpg)
-
 ## 快速开始
 
 需要 64 位 Python 3.10 或更高版本，推荐 Python 3.11。首次安装 PyTorch 时需要联网。

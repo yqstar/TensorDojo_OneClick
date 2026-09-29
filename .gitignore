@@ -5,5 +5,4 @@ __pycache__/
 .validation.json
 torch_wheels/
 .venv/
-output/**/*.log
 llm_code_lab/test_report.json
